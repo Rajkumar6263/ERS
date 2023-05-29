@@ -1,7 +1,7 @@
 # Employee-Review-System
 A full stack, app used for reviewing employee.
-Hoisted Link : 
-github repository : 
+Hoisted Link : https://employee-review-system1-ahqf.onrender.com
+github repository : https://github.com/Rajkumar6263/ERS
 
 
 ### Description
